@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+/frontend/dist/
+/frontend/build/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Go
+backend/backend.exe
+backend/backend
+*.exe
+*.test
