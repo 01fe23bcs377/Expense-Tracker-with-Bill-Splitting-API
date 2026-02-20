@@ -12,6 +12,15 @@ A beautiful, modern, professional full-stack application for tracking shared exp
 
 ---
 
+## 🧠 Key Engineering Decisions
+
+- Monetary values are stored using integer cents to avoid floating-point precision issues.
+- Backend follows layered architecture (handler → service → repository → algorithm).
+- Settlement logic minimizes number of transactions using greedy matching.
+- Frontend and backend are fully decoupled through REST APIs.
+
+---
+
 ## 🏗 Architecture Overview
 
 The system strictly adheres to clean layered architecture on the backend, ensuring a clear separation of concerns.
