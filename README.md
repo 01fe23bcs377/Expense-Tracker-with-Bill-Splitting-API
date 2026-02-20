@@ -68,3 +68,9 @@ Icons: `lucide-react`
 - `GET /api/groups/{id}/settlements` - Compute mathematically optimized minimum transactions
 
 For more extensive system reasoning, refer to `DESIGN.md`.
+
+---
+
+## 🎥 Project Demo
+
+[![Watch Demo](docs/demo-preview.png)](https://drive.google.com/file/d/17KFMQKg5hgt28uinN8AbXXw5aYi4H57K/view?usp=drive_link)
