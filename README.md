@@ -73,4 +73,9 @@ For more extensive system reasoning, refer to `DESIGN.md`.
 
 ## 🎥 Project Demo
 
-[![Watch Demo]](https://drive.google.com/file/d/17KFMQKg5hgt28uinN8AbXXw5aYi4H57K/view?usp=drive_link)
+<p align="center">
+<b>Click the preview image to watch the full demo</b><br><br>
+<a href="https://drive.google.com/file/d/17KFMQKg5hgt28uinN8AbXXw5aYi4H57K/view?usp=drive_link">
+<img src="docs/demo-preview.png" width="800"/>
+</a>
+</p>
